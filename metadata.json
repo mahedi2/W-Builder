@@ -1,0 +1,6 @@
+{
+  "name": "W builder",
+  "description": "Visual Android home screen widget studio with custom components, XML/JSON mode, .wbuilder backup/restore, Jetpack Glance rendering, and AI image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
